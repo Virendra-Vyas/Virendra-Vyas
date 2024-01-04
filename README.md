@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on C# & ASP.NET web Development. <br>👯 I’m looking to collaborate with someone who is working on .Net Projects <br>🤝 I’m looking for help with learning React and Angular.<br>🌱 I’m currently learning Azure Cloud Development<br>💬 Ask me about Web Development, Games, Technologies, and APIs.<br>⚡ Fun fact: I'm a Night Owl.
+🔭 7+ Years of Experience with C# & ASP.NET web Development. <br>👯 I’m looking to collaborate with someone who is working on .Net Projects <br>🤝 I’m also working with React and Angular.<br>🌱 I’m currently learning Azure Cloud Development<br>💬 Ask me about Web Development, Games, Technologies, and APIs.<br>⚡ Fun fact: I'm a Night Owl.
 
 
 ## 🌐 Socials:
