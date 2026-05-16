@@ -66,11 +66,12 @@ PostgreSQL · Docker
 
 ---
 
-## 📊 GitHub Stats
+## 📈 Activity
 
-![](https://github-readme-stats.vercel.app/api?username=Virendra-Vyas&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Virendra-Vyas&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+- 💻 240+ total contributions since 2018
+- 🔨 Actively contributing to production codebases daily
+- 🔀 Code reviews, commits, and PRs across Datascope Systems and freelance projects
+- 🌍 Open source contributions and personal projects on GitHub
 
 ---
 
